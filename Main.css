@@ -1,0 +1,27 @@
+body {
+   background-color: #FFFFFF;            /* 背景色 */
+   background-image: url("1920x1200x86181cb2a212b828c036bf.jpg"); /* 画像 */
+   background-size: cover;               /* 全画面 */
+   background-attachment: fixed;         /* 固定 */
+   background-position: center center;   /* 縦横中央 */
+}
+
+h1 {
+    color: #008b8b;                     /*文字色*/
+    padding:5px;                        /*文字の余白*/
+    font-family: Monotype Corsiva;      /*フォント*/
+}
+
+h2 { 
+    background: #00bfff;                /*背景色*/
+    padding:5px;                        /*文字の余白*/
+    font-family: fantasy;      /*フォント*/
+}
+ 
+h3 {
+    padding: 3px 6px;                   /*上下左右の余白*/
+    color: #000080;                     /*文字色*/
+    background: transparent;            /*背景を透明に変更*/
+    border-left: solid 5px #7db4e6;     /*左に色指定で枠線追加*/
+    font-family: Comic Sans MS;      /*フォント*/
+}
